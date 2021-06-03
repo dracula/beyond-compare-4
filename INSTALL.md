@@ -1,10 +1,4 @@
-### [X](http://link-to-x.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
+### [Beyond Compare 4](https://www.scootersoftware.com/download.php)
 
 #### Install manually
 
