@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/bc4](https://draculatheme.com
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/cr45hmurphy/bc4_dracula/graphs/contributors).
 
 [![cr45hmurphy](https://github.com/cr45hmurphy.png?size=100)](https://github.com/cr45hmurphy) |
 --- |
