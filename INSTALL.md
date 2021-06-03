@@ -2,10 +2,10 @@
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/cr45hmurphy/bc4_dracula/blob/master/BCColors-Dracula.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Double-click BCColors-Dracula.bcpkg
+2. Click "Finish" on the "Import Settings" window
+3. Enjoy!
