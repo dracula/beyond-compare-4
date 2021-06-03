@@ -2,7 +2,7 @@
 
 > A dark theme for [Beyond Compare 4](https://www.scootersoftware.com/download.php).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./bc4_dracula_screenshot.PNG)
 
 ## Install
 
