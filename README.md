@@ -1,6 +1,6 @@
-# Dracula for [Beyond Compare 4](https://www.scootersoftware.com/download.php)
+# Dracula for [Beyond Compare 4 & 5](https://www.scootersoftware.com/download.php)
 
-> A dark theme for [Beyond Compare 4](https://www.scootersoftware.com/download.php).
+> A dark theme for [Beyond Compare 4 & 5](https://www.scootersoftware.com/download.php).
 
 ![Screenshot](./screenshot.png)
 

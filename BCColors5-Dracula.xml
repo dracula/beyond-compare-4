@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 5 from Scooter Software -->
+<BCColors Version="2" MinVersion="2">
+	<TBcColors>
+		<ThemeMode Value="tmDark"/>
+	</TBcColors>
+	<TDirColors>
+		<BGColor Value="$362A28"/>
+		<CenterGradient Value="True"/>
+		<ColoredFolders Value="True"/>
+		<ConflictBGColor Value="$0000CA"/>
+		<ConflictFGColor Value="-"/>
+		<DarkBGColor Value="$362A28"/>
+		<DarkConflictBGColor Value="$0000CA"/>
+		<DarkConflictFGColor Value="-"/>
+		<DarkDiffBGColor Value="-"/>
+		<DarkDiffFGColor Value="$5555FF"/>
+		<DarkDisjointFGColor Value="$00FF00"/>
+		<DarkFGColor Value="$F2F8F8"/>
+		<DarkFilteredBGColor Value="$F2F8F8"/>
+		<DarkFilteredFGColor Value="$7BFA50"/>
+		<DarkFolderInfoFGColor Value="$5A4744"/>
+		<DarkLeftBGColor Value="$5B5B00"/>
+		<DarkLeftFGColor Value="-"/>
+		<DarkLogColor Value="$FDE98B"/>
+		<DarkMergeableBGColor Value="$008080"/>
+		<DarkMergeableFGColor Value="-"/>
+		<DarkNewerBGColor Value="-"/>
+		<DarkNewerFGColor Value="$7BFA50"/>
+		<DarkOlderBGColor Value="-"/>
+		<DarkOlderFGColor Value="$6CB8FF"/>
+		<DarkOrphanBGColor Value="-"/>
+		<DarkOrphanFGColor Value="$F993BD"/>
+		<DarkRightBGColor Value="$660066"/>
+		<DarkRightFGColor Value="-"/>
+		<DarkSameBGColor Value="-"/>
+		<DarkSameFGColor Value="$F2F8F8"/>
+		<DarkSelFocusedBGColor Value="$362A28"/>
+		<DarkSelFocusedFGColor Value="$F2F8F8"/>
+		<DarkSelUnfocusedBGColor Value="$F0E2D3"/>
+		<DarkStripeBGColor Value="$5A4744"/>
+		<DarkUnknownBGColor Value="-"/>
+		<DarkUnknownColor Value="$00CCFF"/>
+		<DarkUnknownFGColor Value="$A47262"/>
+		<DiffBGColor Value="-"/>
+		<DiffFGColor Value="$5555FF"/>
+		<DisjointFGColor Value="$00FF00"/>
+		<FGColor Value="$F2F8F8"/>
+		<FilteredBGColor Value="$F2F8F8"/>
+		<FilteredFGColor Value="$7BFA50"/>
+		<FolderInfoFGColor Value="$5A4744"/>
+		<FontStr Value="Segoe UI;9;[];1;D"/>
+		<LeftBGColor Value="$5B5B00"/>
+		<LeftFGColor Value="-"/>
+		<LogColor Value="$FDE98B"/>
+		<LogSystem Value="True"/>
+		<MergeableBGColor Value="$008080"/>
+		<MergeableFGColor Value="-"/>
+		<NewerBGColor Value="-"/>
+		<NewerFGColor Value="$7BFA50"/>
+		<OlderBGColor Value="-"/>
+		<OlderFGColor Value="$6CB8FF"/>
+		<OrphanBGColor Value="-"/>
+		<OrphanFGColor Value="$F993BD"/>
+		<RightBGColor Value="$660066"/>
+		<RightFGColor Value="-"/>
+		<SameBGColor Value="-"/>
+		<SameFGColor Value="$F2F8F8"/>
+		<SelFocusedBGColor Value="$362A28"/>
+		<SelFocusedFGColor Value="$F2F8F8"/>
+		<SelSystem Value="False"/>
+		<SelUnfocusedBGColor Value="$F0E2D3"/>
+		<StripeBGColor Value="$5A4744"/>
+		<UnknownBGColor Value="-"/>
+		<UnknownColor Value="$00CCFF"/>
+		<UnknownFGColor Value="$A47262"/>
+		<UseStripes Value="True"/>
+	</TDirColors>
+	<TFileColors>
+		<AlignedColor Value="$FFFF00"/>
+		<BGColor Value="$362A28"/>
+		<CurBGColor Value="-"/>
+		<CurFGColor Value="-"/>
+		<CurOverUnderOnly Value="False"/>
+		<DarkAlignedColor Value="$FFFF00"/>
+		<DarkBGColor Value="$362A28"/>
+		<DarkCurBGColor Value="-"/>
+		<DarkCurFGColor Value="-"/>
+		<DarkEditedColor Value="$6CE9FF"/>
+		<DarkFGColor Value="$F2F8F8"/>
+		<DarkFindBGColor Value="$FF6633"/>
+		<DarkFindFGColor Value="$FFFFFF"/>
+		<DarkGutterBGColor Value="$5A4744"/>
+		<DarkGutterFGColor Value="$F2F8F8"/>
+		<DarkHasInsigConflictBGColor Value="$EEF3FF"/>
+		<DarkHasInsigDiffBGColor Value="$FF000010"/>
+		<DarkHasInsigLeftBGColor Value="$FFCC00"/>
+		<DarkHasInsigOrphanBGColor Value="$F993BD"/>
+		<DarkHasInsigRightBGColor Value="$CC99FF"/>
+		<DarkHasSigConflictBGColor Value="$E3E3FF"/>
+		<DarkHasSigDiffBGColor Value="$5555FF"/>
+		<DarkHasSigLeftBGColor Value="$FF0000"/>
+		<DarkHasSigOrphanBGColor Value="$C679FF"/>
+		<DarkHasSigRightBGColor Value="$800080"/>
+		<DarkIgnoredColor Value="$008000"/>
+		<DarkInsigDiffBGColor Value="-"/>
+		<DarkInsigDiffFGColor Value="$FDE98B"/>
+		<DarkOutputBGColor Value="$CFF8FF"/>
+		<DarkReplacedDiffBGColor Value="-"/>
+		<DarkReplacedDiffFGColor Value="$FF0000"/>
+		<DarkSavedColor Value="$9CF5A8"/>
+		<DarkSelFocusedBGColor Value="$5A4744"/>
+		<DarkSelFocusedFGColor Value="-"/>
+		<DarkSelUnfocusedBGColor Value="$F0E2D3"/>
+		<DarkSigDiffBGColor Value="-"/>
+		<DarkSigDiffFGColor Value="-"/>
+		<DarkStripeBGColor Value="$F9FAF8"/>
+		<DarkWhitespaceBGColor Value="-"/>
+		<DarkWhitespaceFGColor Value="$FF000010"/>
+		<EditedColor Value="$6CE9FF"/>
+		<EditorFontStr Value="Consolas;10;[];0;D"/>
+		<ElementPSs>
+			<Item>
+				<ElementStr Value="&#2;Comment"/>
+				<ValueStr Value="$A47262;-;-;$A47262;-"/>
+			</Item>
+			<Item>
+				<ElementStr Value="&#2;Directive"/>
+				<ValueStr Value="$7BFA50;-;-;$7BFA50;-"/>
+			</Item>
+			<Item>
+				<ElementStr Value="&#2;EnvironmentVar"/>
+				<ValueStr Value="$6CB8FF;-;-;-;-"/>
+			</Item>
+			<Item>
+				<ElementStr Value="&#2;Keyword"/>
+				<ValueStr Value="$C679FF;-;[B];$C679FF;-"/>
+			</Item>
+			<Item>
+				<ElementStr Value="&#2;Number"/>
+				<ValueStr Value="$F993BD;-;-;$F993BD;-"/>
+			</Item>
+			<Item>
+				<ElementStr Value="&#2;String"/>
+				<ValueStr Value="$8CFAF1;-;-;$8CFAF1;-"/>
+			</Item>
+		</ElementPSs>
+		<FGColor Value="$F2F8F8"/>
+		<FindBGColor Value="$FF6633"/>
+		<FindFGColor Value="$FFFFFF"/>
+		<GutterBGColor Value="$5A4744"/>
+		<GutterFGColor Value="$F2F8F8"/>
+		<HasInsigConflictBGColor Value="$EEF3FF"/>
+		<HasInsigDiffBGColor Value="$FF000010"/>
+		<HasInsigLeftBGColor Value="$FFCC00"/>
+		<HasInsigOrphanBGColor Value="$F993BD"/>
+		<HasInsigRightBGColor Value="$CC99FF"/>
+		<HasSigConflictBGColor Value="$E3E3FF"/>
+		<HasSigDiffBGColor Value="$5555FF"/>
+		<HasSigLeftBGColor Value="$FF0000"/>
+		<HasSigOrphanBGColor Value="$C679FF"/>
+		<HasSigRightBGColor Value="$800080"/>
+		<HexFontStr Value="Consolas;10;[];0;D"/>
+		<IgnoredColor Value="$008000"/>
+		<InsigDiffBGColor Value="-"/>
+		<InsigDiffFGColor Value="$FDE98B"/>
+		<InsigDiffFontStyle Value="fssInherit"/>
+		<ItemNumFontStr Value="Terminal;7;[];0;D"/>
+		<ListFontStr Value="Segoe UI;9;[];1;D"/>
+		<OutputBGColor Value="$CFF8FF"/>
+		<ReplacedDiffBGColor Value="-"/>
+		<ReplacedDiffFGColor Value="$FF0000"/>
+		<ReplacedDiffFontStyle Value="fssItalic"/>
+		<SavedColor Value="$9CF5A8"/>
+		<SelFocusedBGColor Value="$5A4744"/>
+		<SelFocusedFGColor Value="-"/>
+		<SelSystem Value="False"/>
+		<SelUnfocusedBGColor Value="$F0E2D3"/>
+		<SigDiffBGColor Value="-"/>
+		<SigDiffFGColor Value="-"/>
+		<SigDiffFontStyle Value="fssInherit"/>
+		<StripeBGColor Value="$F9FAF8"/>
+		<UseStripes Value="False"/>
+		<WhitespaceBGColor Value="-"/>
+		<WhitespaceFGColor Value="$FF000010"/>
+	</TFileColors>
+	<TPixColors>
+		<BGColor Value="$362A28"/>
+		<DiffColor Value="$5555FF"/>
+		<SameColor Value="$362A28"/>
+		<ShowCheckerboard Value="True"/>
+		<SimilarColor Value="$FDE98B"/>
+	</TPixColors>
+</BCColors>
